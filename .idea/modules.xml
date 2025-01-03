@@ -4,11 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ContaBanco.java/ContaBanco.java.iml" filepath="$PROJECT_DIR$/ContaBanco.java/ContaBanco.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/IphoneModelagem/IphoneModelagem.iml" filepath="$PROJECT_DIR$/IphoneModelagem/IphoneModelagem.iml" />
       <module fileurl="file://$PROJECT_DIR$/IphoneModelagem01/IphoneModelagem01.iml" filepath="$PROJECT_DIR$/IphoneModelagem01/IphoneModelagem01.iml" />
       <module fileurl="file://$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/dio-java-basico.iml" filepath="$PROJECT_DIR$/dio-java-basico.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dio-pilares-poo/dio-pilares-poo.iml" filepath="$PROJECT_DIR$/dio-pilares-poo/dio-pilares-poo.iml" />
       <module fileurl="file://$PROJECT_DIR$/meu-primeiro-projeto-java/java-anatomia-class/java-anatomia-class.iml" filepath="$PROJECT_DIR$/meu-primeiro-projeto-java/java-anatomia-class/java-anatomia-class.iml" />
       <module fileurl="file://$PROJECT_DIR$/meu-primeiro-projeto-java/java-anatomia-class/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/meu-primeiro-projeto-java/java-anatomia-class/java-terminal/java-terminal.iml" />
       <module fileurl="file://$PROJECT_DIR$/meu-primeiro-projeto-java/meu-primeiro-projeto-java.iml" filepath="$PROJECT_DIR$/meu-primeiro-projeto-java/meu-primeiro-projeto-java.iml" />
